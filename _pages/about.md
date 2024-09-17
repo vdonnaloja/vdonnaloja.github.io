@@ -15,9 +15,9 @@ I'm a *Leverhulme Early Career Fellow* in the Sociology department at the Univer
 Research interests 
 ======
 
- :luggage: Migration and attitudes towards immigrants
- :earth_africa: citizenship and national identity 
- :computer: surveys and survey experiments
+ -:luggage: Migration and attitudes towards immigrants
+ -:earth_africa: citizenship and national identity 
+ -:computer: surveys and survey experiments
 
 
 
