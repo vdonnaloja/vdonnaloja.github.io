@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=3wZ--lQAAAAJ&hl=en
 
   - title: "Work in progress"
     url: /progress/    
