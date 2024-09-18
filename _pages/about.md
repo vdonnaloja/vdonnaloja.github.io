@@ -18,6 +18,8 @@ Research interests
  - :luggage: Migration and attitudes towards immigrants
  - :earth_africa: citizenship and national identity 
  - :computer: surveys and survey experiments
+ 
+Find pre-registrations for experiments on [OSF](https://osf.io/zbq3k/); find data and code for published work on [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/harvard/?q=victoria+donnaloja)
 
 
 
