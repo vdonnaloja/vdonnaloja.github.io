@@ -1,11 +1,10 @@
 ---
----
-permalink: /one/
+permalink: /engagement/
 title: "Public engagement"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /one.html
+  - /engagement/
+  - /engagement.html
 ---
 
 - Article on [The Conversation](https://theconversation.com/what-makes-an-italian-an-olympic-gold-medal-and-a-vandalised-mural-reopen-debate-about-race-and-citizenship-238913)
