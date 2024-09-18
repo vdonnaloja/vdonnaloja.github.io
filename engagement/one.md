@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Public engagement"
 author_profile: true
 permalink: /engagement/one
