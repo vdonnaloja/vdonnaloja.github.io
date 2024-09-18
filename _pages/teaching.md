@@ -13,10 +13,10 @@ author_profile: true
 
 - Undergraduate quantitative sociology project supervision, University of Essex
 
-- Graduate Teaching Assistant for ‘Foundations for Social Policy Research’, The LSE
+- Graduate Teaching Assistant(GTA) for Foundations for Social Policy Research, The LSE
 
-- Graduate Teaching Assistant for ‘Migration: Current Research, Critical Approaches’, The LSE
+- GTA for Migration: Current Research, Critical Approaches, The LSE
 
-- Graduate Teaching Assistant for ‘Sociology and Social Policy, Department of Social Policy’, The LSE
+- GTA for Sociology and Social Policy, Department of Social Policy, The LSE
 
-- Graduate Teaching Assistant for ‘Introduction to Regression Analysis, Department of Methodology’, The LSE
+- GTA for Introduction to Regression Analysis, Department of Methodology, The LSE
